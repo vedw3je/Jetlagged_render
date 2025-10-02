@@ -6,3 +6,4 @@ lightgbm
 gunicorn
 scipy
 scikit-learn
+matplotlib
